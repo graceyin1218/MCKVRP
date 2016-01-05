@@ -11,8 +11,6 @@
 
 
 
-- break for drivers?
-- route seeds?
 
 
 
@@ -27,12 +25,14 @@
 - choose which to minimize: distance, time, or overall cost (usually time)
 - capacities on depots
 
-- max number of vehicles? (finite at a certain point?)
+- max number of vehicles? (ex: a company can hire at most 10 trucks)
 
 
 ### Features that would be cool:
 - curb issue
 - automate execution (keeping map and depots the same)
+- break for drivers?
+- route seeds?
 
 
 #### Approximate time:
